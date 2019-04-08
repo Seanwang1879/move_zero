@@ -25,7 +25,7 @@ void main()
 	for(i=0; i<10; i++){
 		scanf("%d", &array[i]);
 	}
-	move_zero();
+	move_zero(array, 10);
 	
 	return ;
 }
