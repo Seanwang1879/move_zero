@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <sring.h>
+#include <string.h>
 
 void move_zero(int *array, int length)
 {
